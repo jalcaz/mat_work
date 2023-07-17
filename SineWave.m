@@ -1,5 +1,5 @@
-% Plotting 5 seconds
-t = 0:0.01:5; %seconds
+% Plotting 10 seconds
+t = 0:0.01:10; %seconds
 f = 1; %Hertz
 w = 2 * pi * f;
 y = sin (w*t);
